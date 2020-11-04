@@ -1,5 +1,5 @@
-# Earthworm-Web
-This is the backstage management repository for [Earthworm-Web](https://earthworm-web.github.io).
+# Quinn-Web
+This is the backstage management repository for [Quinn-Web](https://quinn-web.github.io).
 ## People (1)
 <table>
     <tr>
